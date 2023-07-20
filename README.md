@@ -62,3 +62,6 @@ https://github.com/badlogic/chip8/blob/master/roms/ - Other ROMs
 https://en.wikipedia.org/wiki/CHIP-8
 
 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+
+## Showcase
+https://youtu.be/cvv1XRdPhto
