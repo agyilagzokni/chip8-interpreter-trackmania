@@ -161,7 +161,6 @@ void get_key_v(){
         }
         if(isInXY(2, 3)){
             cpu.key_active = true;
-            print("8");
             keypad[0x8] = 1;
             return;
         }else{
