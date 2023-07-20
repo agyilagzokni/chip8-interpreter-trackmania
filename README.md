@@ -6,7 +6,7 @@ Most of the games work fine, but there are some that are buggy, some aren't play
 The CHIP-8 can process 16 different inputs through 0 to 9, A to F.
 Natively these are placed like this:
 
-- | - | - | -
+0 | 0 | 0 | 0
 -- | -- | -- | --
 1 | 2 | 3 | C
 4 | 5 | 6 | D
@@ -14,7 +14,7 @@ Natively these are placed like this:
 A | 0 | B | F
 
 In some games these are referred as:
-- | - | - | -
+0 | 0 | 0 | 0
 -- | -- | -- | --
 1 | 2 | 3 | 4
 Q | W | E | R
@@ -22,7 +22,7 @@ A | S | D | F
 Z | X | C | V
 
 And these are mapped to the controller like this:
-- | - | - | -
+0 | 0 | 0 | 0
 -- | -- | -- | --
 X | Y | B | R1
 V | U | M | L1
