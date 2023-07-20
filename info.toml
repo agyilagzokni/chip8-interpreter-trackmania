@@ -1,0 +1,6 @@
+[meta]
+name="CHIP-8 interpreter"
+author="agyilagzokni"
+
+[script]
+dependencies = ["VehicleState"]
