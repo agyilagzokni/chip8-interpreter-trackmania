@@ -4,7 +4,7 @@ Most of the games work fine, but there are some that are buggy, some aren't play
 
 ## Controls
 The CHIP-8 can process 16 different inputs through 0 to 9, A to F.
-Natively these are placed like this:
+Natively these are placed like this (ignore the first rows):
 
 0 | 0 | 0 | 0
 -- | -- | -- | --
